@@ -23,7 +23,7 @@ This API is built using **Node.js and Express**, supports **CORS**, and returns 
 - **Method:** `GET`
 - **URL:**
 
-https://your-api.onrender.com/
+https://hng12-api-1b9h.onrender.com
 
 ### **Response Format (200 OK)**
 
@@ -48,13 +48,13 @@ https://your-api.onrender.com/
 ### **📌 Using cURL**
 
 ```sh
-curl -X GET https://your-api.onrender.com/
+curl -X GET https://hng12-api-1b9h.onrender.com
 ```
 
 ### **📌 Using JavaScript (Fetch API)**
 
 ```javascript
-fetch("https://your-api.onrender.com/")
+fetch("https://hng12-api-1b9h.onrender.com")
   .then((response) => response.json())
   .then((data) => console.log(data))
   .catch((error) => console.error(error));
@@ -66,7 +66,7 @@ fetch("https://your-api.onrender.com/")
 
 The full API documentation is available at:
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/COLLECTION_ID)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/21773885/2sAYX3q3QL)
 
 Explore and test the API directly in Postman.
 
@@ -108,7 +108,7 @@ http://localhost:3000/
 This API is deployed on **Render**. You can access it publicly at:
 
 ```
-https://your-api.onrender.com/
+https://hng12-api-1b9h.onrender.com
 ```
 
 ---
@@ -139,10 +139,3 @@ For **freelance Node.js development**, check out my profile:
 ## 📜 **License**
 
 This project is licensed under the **MIT License**. See the [`LICENSE`](LICENSE) file for details.
-
-```
-
----
-
-
-```
